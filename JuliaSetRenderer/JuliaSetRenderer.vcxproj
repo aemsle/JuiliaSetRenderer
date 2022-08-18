@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{b57f9304-a101-47db-8f8b-3dbc98f02cb8}</ProjectGuid>
-    <RootNamespace>Assignment</RootNamespace>
+    <RootNamespace>JuliaSetRenderer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>JuliaSetRenderer</ProjectName>
   </PropertyGroup>
